@@ -33,7 +33,7 @@ button{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .accent {
@@ -257,13 +257,13 @@ button{
 
 }
 
-.accent {
+/*.accent {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #f4f4fd;*/
 
 }
 
