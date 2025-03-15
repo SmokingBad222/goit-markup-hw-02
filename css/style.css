@@ -200,7 +200,6 @@ button{
 /*--------------TEAM---------------*/
 /*--------------PORTFOLIO---------------*/
 .portfolio {
-    ;
 
 }
 
@@ -215,12 +214,12 @@ button{
 }
 
 .portfolio-menu-list {
-    background-color: #FFFFFF;
+   
 
 }
 
 .portfolio-menu-item {
-
+ background-color: #FFFFFF;
 }
 
 .portfolio-image {
