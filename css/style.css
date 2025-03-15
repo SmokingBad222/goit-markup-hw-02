@@ -201,7 +201,6 @@ button{
 /*--------------PORTFOLIO---------------*/
 .portfolio {
 
-
 }
 
 .portfolio-title {
@@ -215,7 +214,7 @@ button{
 }
 
 .portfolio-menu-list {
-    
+    /*background-color: #FFFFFF;*/
 
 }
 
@@ -262,7 +261,7 @@ button{
 
 }
 
-/*.accent {
+.accent {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -270,7 +269,7 @@ button{
     text-transform: uppercase;
     color: #f4f4fd;
 
-}*/
+}
 
 .footer-text {
     font-weight: 400;
