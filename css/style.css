@@ -1,6 +1,7 @@
 body{
-    font-size: 'Roboto', sans-serif;
-    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #ffffff;
 }
 
 ul{
@@ -26,12 +27,13 @@ button{
 }
 
 .header-logo {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #2e2f42;
+    color: #4d5ae5;
 }
 
 .header-logo-color {
@@ -40,7 +42,7 @@ button{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 .header-menu-list {
@@ -60,7 +62,7 @@ button{
     color: #2e2f42;
 }
 .header-menu-link:hover, .header-menu-link:focus{
-    color: #4d5ae5;
+    color: #404bbf;
 }
 
 .header-adress {
@@ -78,10 +80,10 @@ button{
 
 .header-adress-link {
     font-weight: 400;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #434455;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 /*----------------HEADER---------------------*/
@@ -112,6 +114,9 @@ button{
     color: #fff;
 }
 
+.business-btn:hover, .business-btn:focus{
+    background-color: #404BBF;
+}
  /*----------------BUSINESS----------*/
 
 
@@ -150,20 +155,22 @@ button{
 
 /*--------------TEAM---------------*/
 .team {
+    background-color: #F4F4FD;
 
 }
 
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;
     text-align: center;
     color: #2e2f42;
 }
 
 .team-menu-list {
-
+    background-color: #FFFFFF;
 }
 
 .team-menu-item {
@@ -196,8 +203,9 @@ button{
 .portfolio-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
+    text-transform: capitalize;          
     text-align: center;
     color: #2e2f42;
 }
@@ -239,12 +247,13 @@ button{
 }
 
 .footer-link {
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;
+    color: #4d5ae5;
 
 }
 
@@ -254,7 +263,7 @@ button{
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: #f4f4fd;
 
 }
 
