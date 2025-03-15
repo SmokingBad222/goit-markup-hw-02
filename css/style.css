@@ -36,7 +36,7 @@ button{
     color: #4d5ae5;
 }
 
-.header-logo-color {
+.accent {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
@@ -200,7 +200,7 @@ button{
 /*--------------TEAM---------------*/
 /*--------------PORTFOLIO---------------*/
 .portfolio {
-    background-color: #FFFFFF;
+    ;
 
 }
 
@@ -215,6 +215,7 @@ button{
 }
 
 .portfolio-menu-list {
+    background-color: #FFFFFF;
 
 }
 
@@ -261,7 +262,7 @@ button{
 
 }
 
-.footer-logo-color {
+.accent {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
