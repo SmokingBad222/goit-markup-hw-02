@@ -210,11 +210,12 @@ button{
 }
 
 .portfolio-menu-list {
-    background-color: #FFFFFF;
+    
 
 }
 
 .portfolio-menu-item {
+    background-color: #ffffff;
 
 }
 
@@ -257,13 +258,13 @@ button{
 
 }
 
-/*.accent {
+.accent-two {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd;*/
+    color: #f4f4fd;
 
 }
 
