@@ -85,7 +85,8 @@ button{
     letter-spacing: 0.02em;
     color: #434455;
 }
-.header-adress-link:hover, .header-adress-link:focus{
+.header-adress-link:hover, 
+.header-adress-link:focus{
     color: #404bbf;
 }
 
@@ -175,7 +176,7 @@ button{
 }
 
 .team-menu-item {
-    background-color: #FFFFFF;
+   
 
 }
 .team-subtitle{
@@ -199,6 +200,7 @@ button{
 /*--------------TEAM---------------*/
 /*--------------PORTFOLIO---------------*/
 .portfolio {
+    background-color: #FFFFFF;
 
 }
 
